@@ -15,5 +15,5 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Description
+Small app that imitates API call to .json file and renders cards with flats information. User can mark each card with a thumbs up button.
